@@ -4,6 +4,7 @@
 
 /**
  * copyright 2022 @codewithsadee
+ * copyright 2024 @ezizhummedov (modified)
  */
 
 /*-----------------------------------*\
@@ -594,7 +595,7 @@ main {
   line-height: 1.6;
 }
 
-.service-content-box .service-item-text a {
+.service-item-text a {
   display: inline;
   color: hsl(0, 0%, 84%);
   text-decoration: underline;
