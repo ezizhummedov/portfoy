@@ -594,6 +594,11 @@ main {
   line-height: 1.6;
 }
 
+.service-item-text a {
+  display: inline;
+  color: hsl(0, 0%, 84%);
+  text-decoration: underline;
+}
 /**
  * #testimonials 
  */
