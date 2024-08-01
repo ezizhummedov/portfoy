@@ -2084,3 +2084,15 @@ a:hover,
 button:hover {
   cursor: url("../images/hand.svg") -5px -1px, pointer;
 }
+
+.coming-soon {
+  color: #fff;
+  border: none !important;
+}
+.inactive {
+  text-decoration: line-through;
+}
+.project-item[data-category="full stack"],
+.project-item[data-category="frontend"] {
+  border: none;
+}
